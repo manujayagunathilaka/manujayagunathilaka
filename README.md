@@ -118,7 +118,7 @@
       <h3 align="center">Software & Design Tools</h3>
       <p align="center">
         <a href="https://skills.syvixor.com">
-          <img src="https://skills.syvixor.com/api/icons?i=git,postman,figma,xd,photoshop,illustrator" />
+          <img src="https://skills.syvixor.com/api/icons?i=git,postman,figma,xd,photoshop,illustrator,affintiy" />
         </a>
       </p>
     </td>
